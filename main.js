@@ -6,9 +6,9 @@
  */
 
 var hamPart = $('.header-right');
-var hamburger = $('.header-right a');
+var hamburger = $('.header-right > a');
 var hamMenu = $('.hamburger-menu');
-var ics = $('.hamburger-menu a');
+var ics = $('.hamburger-menu > a');
  
  hamburger.click( function() {
 
